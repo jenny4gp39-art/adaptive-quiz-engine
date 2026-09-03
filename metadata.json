@@ -1,0 +1,7 @@
+{
+  "name": "Adaptive Quiz Engine",
+  "description": "A smart adaptive quiz platform that continuously calibrates question difficulty based on dynamic learner ability scores, tracking mastery and target weak areas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
